@@ -236,6 +236,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ivy-demo"
+    }
+  },
+  "defaultProject": "ivy-demo",
+  "cli": {
+    "analytics": true
+  }
 }
